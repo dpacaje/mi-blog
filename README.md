@@ -6,3 +6,4 @@
 ### Texto agregado posterior a la regla de rama
 
 ### Texto agregado por el colaborador a modo de mejora
+Mas texto agregado por el colaborador a modo de ejemplo
