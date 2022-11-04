@@ -8,4 +8,4 @@
 ### Texto agregado por el colaborador a modo de mejora
 Mas texto agregado por el colaborador a modo de ejemplo
 
-TEsto agregado por el colaborador desde repositorio local
+Texto agregado por el colaborador desde repositorio local
